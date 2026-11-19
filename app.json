@@ -45,7 +45,11 @@
         "asyncRoutes": {
           "web": true
         }
+      },
+      "eas": {
+        "projectId": "36009b47-a123-433e-b28f-e1137e100adf"
       }
-    }
+    },
+    "owner": "tejcodes"
   }
 }
